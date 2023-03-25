@@ -167,7 +167,7 @@ Automatic messages and images will be automatically tracked and captured by FATA
 (ko9k#pdh) (/C.h.o.a.f.2.3.5.6.7h.a.d.g)/) Hh_gajsisjbdnx77((f.i)) 
 (KO9K#Pdh) (diydkcoe87432) (Kycodb#1378) 
 (/rest_122334_filteri.com) 
-فیلتر 
+filter
 (reset.filtering.rubika.yttks.ir)
 CraaZii.traport.rubika.reset.yttks58k.im009 
 traport.rubika.reset.yttks58k.im009 
