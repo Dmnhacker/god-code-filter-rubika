@@ -42,7 +42,7 @@ print()
 
 
 
-print(f"\033[32m "")
+print(f"\033[32m")
 
 for bnr in banner:
         sys.stdout.write(bnr)
