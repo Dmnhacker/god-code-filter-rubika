@@ -51,19 +51,15 @@ print("\033[32m")
 from colorama import Fore,init
 from pyfiglet import Figlet
 Sa=Figlet(font="slant")
-print(Sa.renderText("hacker white"))
+print(Sa.renderText("Dmn hacker"))
 print("")
 
 print(f"\033[32m")
 
 up = input("""
-
-
 inter 1 ok
 ┌──
-└──╼ ❯❯❯  """)
-print("\r cod          ",end="",flush=False)
-
+└──╼ ❯❯❯""")
 print("\033[31m")
 print("")
 print("")
