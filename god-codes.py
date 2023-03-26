@@ -48,10 +48,6 @@ print("")
 print("")
 print("")
 print("\033[32m")
-from colorama import Fore,init
-from pyfiglet import Figlet
-Sa=Figlet(font="slant")
-print(Sa.renderText("Dmn hacker"))
 print("")
 
 print(f"\033[32m")
