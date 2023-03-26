@@ -30,11 +30,6 @@ banner = (f"""
 fod codes for filter rubika by dmnhacker
  v1.0
 """)
-for bnr in banner:
-        sys.stdout.write(bnr)
-        sys.stdout.flush()
-        time.sleep(0.1)
-
 
 
 os.system("clear")
