@@ -6,18 +6,17 @@ import requests
 import clorama
 
 class color:
-green = "\033[32m"
-red = "\033[31m"
-blue = "\033[36m"
-pink = "\033[35m"
-yellow = "\033[93m"
-darkblue = "\033[34m"
-white = "\033[00m"
-mark = '\x1b[38;5;4m'
-mark1 = '\x1b[48;5;15m'
-mark2 = '\x1b[0m'
-
-
+    green = "\033[32m"
+    red = "\033[31m"
+    blue = "\033[36m"
+    pink = "\033[35m"
+    yellow = "\033[93m"
+    darkblue = "\033[34m"
+    white = "\033[00m"
+    mark = '\x1b[38;5;4m'
+    mark1 = '\x1b[48;5;15m'
+    mark2 = '\x1b[0m'
+	
 dat = (datetime.datetime.today())
 
 
