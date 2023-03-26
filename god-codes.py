@@ -54,7 +54,7 @@ Sa=Figlet(font="slant")
 print(Sa.renderText("hacker white"))
 print("")
 
-print(f"\033[32m ")
+print(f"\033[32m")
 
 up = input("""
 
