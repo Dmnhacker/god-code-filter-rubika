@@ -6,16 +6,16 @@ import requests
 import clorama
 
 class color:
- green = "\033[32m"
-    red = "\033[31m"
-    blue = "\033[36m"
-    pink = "\033[35m"
-    yellow = "\033[93m"
-    darkblue = "\033[34m"
-    white = "\033[00m"
-    mark = '\x1b[38;5;4m'
-    mark1 = '\x1b[48;5;15m'
-    mark2 = '\x1b[0m'
+green = "\033[32m"
+red = "\033[31m"
+blue = "\033[36m"
+pink = "\033[35m"
+yellow = "\033[93m"
+darkblue = "\033[34m"
+white = "\033[00m"
+mark = '\x1b[38;5;4m'
+mark1 = '\x1b[48;5;15m'
+mark2 = '\x1b[0m'
 
 
 dat = (datetime.datetime.today())
@@ -206,7 +206,7 @@ https://dv-ph.rdtcdn.com/videos/202206/22/410407441/360P_360K_410407441_fb.mp4?t
 https://Filter.Filter.Filtering<akant.sex](http://filtering.rubika.python.py/)https://tex.sexi.000757.fil.akant.anlinXxx.porn.photo.tex.sexi.ey98.comXxx.fil.filter.akant.anlin.in.rubika.in.com(/yftt15k)=https://rubika/filly.ter/(10:19:21.621)abol.teror.Filtering.rubika.-yhttp://Dxprit.(27.0.0.1:9050.http://4.2.4.8/f////g.h/4.2.4.6.4.7.8.4.6.5.8.2.3.7.6.0.3.6.2)Filter.Filtering.com.by=gif.movi.sxsi\
 https://Filter.Filter.Filtering.rubika.com.by=https://s4.uupload.ir/files/n5_j0e2.jpg(server*127.0.0.1*y//d/fg/d"Dxprit.abol.terors127.7678729986.infect.in=7.2.0.5/f//a/y/3.0.8.1.3.0.1.7.6.0.7.4.8.9.1.0.3.8.6.0.2.4.3.6(fil_rubika)Account.com:cfc.sex.filtering.rubika.ir*filter.server.rubika.com)
 https://rubika.ir/filter.play/www.photo.sex.com/2861274238378901110./5.5.0.3fil_accunt=git_txt_sex_xnxx&porn.17.16.32.08.000com=filter.accunt.rubika=(/https://bit.ly/3ild93L.fa*.af*.fa*.)(17.16.32.09.000)(yftt16k).(Filtering-Acoount)=filter.servr.rubika.com).af.*fa.*af.*fa.*af.*fa.*af.*fa.*.com 
-'yttks34.rest.rubika.ir','sex.porn.xxx.yttks23.rest.rubika',' /(https://Hacked.hack.ir/sex.porn/ir/yttks34.attacked54/rest.rubika.ir/web.rubika.ir/)','porn.sexxxxx.img2.com','yttks34.org.rubika/hacked/@Hacked/.com','allow.code.rubika.sexx.xxx.xxx.porn(3008).ytkss35','localhost://https://rubika.com.org.xxx.co.ir/Hacked','sex.yttks462.192.32.442.34:0883','DDoSer.com/ftps://code.filter.xxx.ico','sxex.xxx.yttks742.py.linux.Hacked.rest.rubika.ir']
+'yttks34.rest.rubika.ir sex.porn.xxx.yttks23.rest.rubika',' /(https://Hacked.hack.ir/sex.porn/ir/yttks34.attacked54/rest.rubika.ir/web.rubika.ir/)','porn.sexxxxx.img2.com','yttks34.org.rubika/hacked/@Hacked/.com','allow.code.rubika.sexx.xxx.xxx.porn(3008).ytkss35','localhost://https://rubika.com.org.xxx.co.ir/Hacked','sex.yttks462.192.32.442.34:0883','DDoSer.com/ftps://code.filter.xxx.ico','sxex.xxx.yttks742.py.linux.Hacked.rest.rubika.ir']
 cc3 : list=['187.183.168.64:15111','187.183.221.110:26329','187.183.221.64:26359','187.183.46.154:38189','187.21.194.71:39287','187.21.211.194:26839','187.21.70.179:64934','187.22.15.182:46240','187.22.95.164:39308','187.23.113.125:51818','187.23.113.215:51904','187.23.130.72:14687','187.23.135.197:15570','187.23.135.231:15600','187.23.255.169:17598','187.3.188.120:11915','187.3.68.134:65000','187.37.170.42:14367','187.37.182.133:13488','187.37.227.117:22608','189.100.214.186:35835','189.102.151.54:51829','189.120.67.241:17852','189.121.208.88:36100','110.77.208.252:62225','111.253.91.53:8888'
 https://bit.ly/3b83sD9/filter.account/ https://gofile.io/?c=IqHLc4
 Af.aph.aph.af)/*(01.09:59:25.000)(01 12:31.42.143/)*(af+by+fill+rubika--+)(Shrt.1.5.6.9.3dhnj)P982UJN.FILter.co?j?82802k?/KUSPWH.9.1.5.19H/(LAJS/.5.9.9.1II.FIL)FHJS/.89.9.1II.JTL1.2](019U1MZK5.6.8.HFIL.،KJ/9)(FHOM.5.8.3.2.6KpD.//(GHor6.7.hfdjsh.34.36.HYA)
