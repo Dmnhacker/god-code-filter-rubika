@@ -76,7 +76,7 @@ os.system("clear")
 print()
 
 if up == "1":
-	print(color.red""""f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 
+	print(((color.red"""f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 f7921b1cc89cfac2a2a6a6632c2a79d8 
 Dear subscriber: Automatic messages and images will be automatically tracked and captured by FATA police operatives within the next 24 hours, or your account will be filtered in less than 12 hours. Islamic Republic of Iran Exchange Police Nkjhfdddf,yjmll/filteri 
 Filter Filter Failtero 
 (/yftt15k) 
@@ -217,4 +217,4 @@ https://s6.uupload.ir/files/screenshot_۲۰۲۲۰۸۰۹-۱۴۱۶۳۹_qegt.jpg/_(
 Host": "messengerg2c4.iranlms.ir","content-length": "96","accept": "application/json, text/plain, */*","user-agent": "Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36","content-type": "text/plain","origin": "https://web.rubika.ir","sec-fetch-site": "cross-site","sec-fetch-mode": "cors","sec-fetch-dest": "empty","referer": "https://web.rubika.ir/","accept-encoding": "gzip, deflate, br","accept-language": "fa-IR,fa;q\u003d0.9,en-GB;q\u003d0.8,en;q\u003d0.7,en-US;q\u003d0.6"
 # yftt15k-yftt-filter-rubika.hackers68628
 https://s6.uupload.ir/files/v10304_wv03.jpg
-https://s6.uupload.ir/files/v10304_wv03.jpg"""")
+https://s6.uupload.ir/files/v10304_wv03.jpg""")))
